@@ -1,1 +1,38 @@
-/* место для вашего кода */
+
+.header {
+  display: grid;
+  grid-template-columns: 3fr min-content 1fr;
+  align-items: center;
+  padding: 50px 50px 92px 96px;
+}
+
+.header__menu {
+  display: flex;
+  gap: 12.5px;
+}
+
+.header__address {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.header__logo-image {
+  display: block;
+}
+
+/*.cover {
+
+}
+
+.lots {
+
+}
+
+.about {
+
+}
+
+.footer {
+
+}*/
