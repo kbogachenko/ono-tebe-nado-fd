@@ -256,6 +256,7 @@
 .footer {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  gap: 170px;
   padding: 0px 50px 82px 50px; 
 }
 
