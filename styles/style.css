@@ -38,7 +38,6 @@
 }
 
 .address {
-  max-width: 240px;
   list-style-type: none;
   font-family: Raleway, sans-serif;
   font-size: 18px;
@@ -255,7 +254,7 @@
 
 .footer {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 265px repeat(2, 1fr);
   gap: 170px;
   padding: 0px 50px 82px 50px; 
 }
