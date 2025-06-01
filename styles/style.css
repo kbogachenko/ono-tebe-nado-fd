@@ -215,7 +215,7 @@
 .about {
   display: grid;
   grid-template-columns: 334px 1fr;
-  margin: 180px 24px 190px 30px; 
+  margin: 180px 24px 190px 30px;
 }
 
 .about__logo {
@@ -257,7 +257,7 @@
   display: grid;
   grid-template-columns: 240px 1fr 240px;
   gap: 170px;
-  padding: 10px 50px 82px 50px; 
+  padding: 10px 50px 82px 50px;
 }
 
 .footer__menu {
